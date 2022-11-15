@@ -1,4 +1,5 @@
 # covid_analysis
+In this, Covid-19 Data Exploration is done using SQL and Tableau for Data Visualization. The updated dataset was downloaded from ourworldindata.org and the project was completed with online guidance
 
 -- dataset preview
 ```
